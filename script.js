@@ -1,1 +1,1 @@
-console.log("Teste de conteúdo js");
+console.log("Alterando para novo teste do comando pull");
